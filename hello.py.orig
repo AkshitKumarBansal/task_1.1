@@ -1,7 +1,13 @@
 
 print("Hello World")
-print("")
-
+<<<<<<< HEAD
+print("Hello I am Ansh Gupta")
+print("i am a student of G100000");
+=======
+print("Hello I am Akshit Kumar Bansal")
+#added to get conflict
+print("i am a student of G1")
+>>>>>>> dev
  
 
 
