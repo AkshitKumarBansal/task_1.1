@@ -1,6 +1,6 @@
 print("Hello World")
 print("Hello I am Ansh Gupta")
-print("i am a student of G1")
+print("i am a student of G100000");
  
 
 
